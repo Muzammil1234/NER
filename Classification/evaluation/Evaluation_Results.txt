@@ -34,7 +34,7 @@ Non-trainable params: 0
 __________________________________________________________________________________________________
 Train on 3400 samples, validate on 1000 samples
 Epoch 1/100
-2019-11-08 20:16:25.341257: W tensorflow/core/framework/allocator.cc:122] Allocation of 378470400 exceeds 10% of system memory.
+2020-07-13 20:16:25.341257: W tensorflow/core/framework/allocator.cc:122] Allocation of 378470400 exceeds 10% of system memory.
 
   20/3400 [..............................] - ETA: 2:41:46 - loss: 5.3981 - acc: 0.02952020-07-13 20:17:00.373349: W tensorflow/core/framework/allocator.cc:122] Allocation of 378470400 exceeds 10% of system memory.
 2020-07-13 20:17:30.421555: W tensorflow/core/framework/allocator.cc:122] Allocation of 378470400 exceeds 10% of system memory.

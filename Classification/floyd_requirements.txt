@@ -6,6 +6,6 @@ matplotlib
 sklearn
 numpy==1.14.5
 keras==2.1.6
-tensorflow==1.12.0
+tensorflow==2.5.0
 keras-self-attention
 natsort

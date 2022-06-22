@@ -4,7 +4,7 @@ gensim
 nltk
 matplotlib
 sklearn
-numpy==1.14.5
+numpy==1.22.0
 keras==2.1.6
 tensorflow==1.12.0
 keras-self-attention
